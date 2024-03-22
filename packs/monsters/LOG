@@ -1,0 +1,56 @@
+2024/03/21-22:40:34.110 69f4 Recovering log #5
+2024/03/21-22:40:34.322 69f4 Level-0 table #7: started
+2024/03/21-22:40:34.938 69f4 Level-0 table #7: 48799160 bytes OK
+2024/03/21-22:40:34.967 69f4 Delete type=0 #5
+2024/03/21-22:40:34.978 69f4 Delete type=3 #4
+2024/03/21-23:20:49.237 7968 Level-0 table #10: started
+2024/03/21-23:20:49.237 7968 Level-0 table #10: 0 bytes OK
+2024/03/21-23:20:49.241 7968 Delete type=0 #8
+2024/03/21-23:20:49.267 7968 Manual compaction at level-0 from '!actors!02ZqVrM3g5iFmVLQ' @ 72057594037927935 : 1 .. '!actors.items.effects!zuh1ShWhOJhnwFhm.toDDinRr86H8iGow.XoW7WJlRMmDkPF2G' @ 0 : 0; will stop at '!actors.items.effects!zuh1ShWhOJhnwFhm.toDDinRr86H8iGow.XoW7WJlRMmDkPF2G' @ 37254 : 1
+2024/03/21-23:20:49.267 7968 Compacting 1@0 + 0@1 files
+2024/03/21-23:20:49.305 7968 Generated table #11@0: 575 keys, 2121031 bytes
+2024/03/21-23:20:49.338 7968 Generated table #12@0: 576 keys, 2121078 bytes
+2024/03/21-23:20:49.371 7968 Generated table #13@0: 579 keys, 2121640 bytes
+2024/03/21-23:20:49.410 7968 Generated table #14@0: 588 keys, 2122227 bytes
+2024/03/21-23:20:49.446 7968 Generated table #15@0: 577 keys, 2121969 bytes
+2024/03/21-23:20:49.486 7968 Generated table #16@0: 1030 keys, 2124927 bytes
+2024/03/21-23:20:49.574 7968 Generated table #17@0: 1697 keys, 2126952 bytes
+2024/03/21-23:20:49.672 7968 Generated table #18@0: 1788 keys, 2128748 bytes
+2024/03/21-23:20:49.771 7968 Generated table #19@0: 1684 keys, 2126463 bytes
+2024/03/21-23:20:49.855 7968 Generated table #20@0: 1821 keys, 2127868 bytes
+2024/03/21-23:20:49.928 7968 Generated table #21@0: 1749 keys, 2127946 bytes
+2024/03/21-23:20:50.020 7968 Generated table #22@0: 1776 keys, 2128481 bytes
+2024/03/21-23:20:50.127 7968 Generated table #23@0: 1752 keys, 2128017 bytes
+2024/03/21-23:20:50.225 7968 Generated table #24@0: 1730 keys, 2126582 bytes
+2024/03/21-23:20:50.309 7968 Generated table #25@0: 1705 keys, 2127912 bytes
+2024/03/21-23:20:50.394 7968 Generated table #26@0: 1807 keys, 2128086 bytes
+2024/03/21-23:20:50.483 7968 Generated table #27@0: 1837 keys, 2128004 bytes
+2024/03/21-23:20:50.592 7968 Generated table #28@0: 1803 keys, 2129054 bytes
+2024/03/21-23:20:50.675 7968 Generated table #29@0: 1706 keys, 2127757 bytes
+2024/03/21-23:20:50.767 7968 Generated table #30@0: 1720 keys, 2127323 bytes
+2024/03/21-23:20:50.873 7968 Generated table #31@0: 1833 keys, 2128314 bytes
+2024/03/21-23:20:50.973 7968 Generated table #32@0: 1740 keys, 2126946 bytes
+2024/03/21-23:20:51.044 7968 Generated table #33@0: 5201 keys, 2008551 bytes
+2024/03/21-23:20:51.044 7968 Compacted 1@0 + 0@1 files => 48785876 bytes
+2024/03/21-23:20:51.045 7968 compacted to: files[ 0 23 0 0 0 0 0 ]
+2024/03/21-23:20:51.046 7968 Delete type=2 #7
+2024/03/21-23:20:51.065 7968 Manual compaction at level-0 from '!actors.items.effects!zuh1ShWhOJhnwFhm.toDDinRr86H8iGow.XoW7WJlRMmDkPF2G' @ 37254 : 1 .. '!actors.items.effects!zuh1ShWhOJhnwFhm.toDDinRr86H8iGow.XoW7WJlRMmDkPF2G' @ 0 : 0; will stop at (end)
+2024/03/21-23:20:51.085 7968 Moved #11 to level-2 2121031 bytes OK: files[ 0 22 1 0 0 0 0 ]
+2024/03/21-23:20:51.254 7968 Moved #12 to level-2 2121078 bytes OK: files[ 0 21 2 0 0 0 0 ]
+2024/03/21-23:20:51.367 7968 Moved #13 to level-2 2121640 bytes OK: files[ 0 20 3 0 0 0 0 ]
+2024/03/21-23:20:51.377 7968 Moved #14 to level-2 2122227 bytes OK: files[ 0 19 4 0 0 0 0 ]
+2024/03/21-23:20:51.383 7968 Moved #15 to level-2 2121969 bytes OK: files[ 0 18 5 0 0 0 0 ]
+2024/03/21-23:20:51.389 7968 Moved #16 to level-2 2124927 bytes OK: files[ 0 17 6 0 0 0 0 ]
+2024/03/21-23:20:51.392 7968 Moved #17 to level-2 2126952 bytes OK: files[ 0 16 7 0 0 0 0 ]
+2024/03/21-23:20:51.405 7968 Moved #18 to level-2 2128748 bytes OK: files[ 0 15 8 0 0 0 0 ]
+2024/03/21-23:20:51.410 7968 Moved #19 to level-2 2126463 bytes OK: files[ 0 14 9 0 0 0 0 ]
+2024/03/21-23:20:51.415 7968 Moved #20 to level-2 2127868 bytes OK: files[ 0 13 10 0 0 0 0 ]
+2024/03/21-23:20:51.431 7968 Moved #21 to level-2 2127946 bytes OK: files[ 0 12 11 0 0 0 0 ]
+2024/03/21-23:20:51.432 7968 Moved #22 to level-2 2128481 bytes OK: files[ 0 11 12 0 0 0 0 ]
+2024/03/21-23:20:51.436 7968 Moved #23 to level-2 2128017 bytes OK: files[ 0 10 13 0 0 0 0 ]
+2024/03/21-23:20:51.453 7968 Moved #24 to level-2 2126582 bytes OK: files[ 0 9 14 0 0 0 0 ]
+2024/03/21-23:20:51.455 7968 Moved #25 to level-2 2127912 bytes OK: files[ 0 8 15 0 0 0 0 ]
+2024/03/21-23:20:51.458 7968 Moved #26 to level-2 2128086 bytes OK: files[ 0 7 16 0 0 0 0 ]
+2024/03/21-23:20:51.492 7968 Moved #27 to level-2 2128004 bytes OK: files[ 0 6 17 0 0 0 0 ]
+2024/03/21-23:20:51.523 7968 Moved #28 to level-2 2129054 bytes OK: files[ 0 5 18 0 0 0 0 ]
+2024/03/21-23:20:51.531 7968 Moved #29 to level-2 2127757 bytes OK: files[ 0 4 19 0 0 0 0 ]
