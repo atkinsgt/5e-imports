@@ -156,6 +156,6 @@
       }
     }
   ],
-  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+  "manifest": "https://github.com/atkinsgt/5e-imports/module.json",
+  "download": "https://github.com/atkinsgt/5e-imports/5e-imports.zip"
 }
